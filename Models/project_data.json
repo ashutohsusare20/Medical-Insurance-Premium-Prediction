@@ -1,0 +1,1 @@
+{"sex": {"female": 0, "male": 1}, "smoker": {"no": 1, "yes": 0}, "columns": ["age", "sex", "bmi", "children", "smoker", "region_northeast", "region_northwest", "region_southeast", "region_southwest"]}

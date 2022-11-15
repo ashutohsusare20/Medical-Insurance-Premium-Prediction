@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Insurance Charges Prediction</title>
+
+    
+</head>
+
+<!--<body style="background-color: rgb(103, 173, 230);";>-->
+<body style="background-image: url(https://medicaldialogues.in/h-upload/2022/10/13/187809-medical-insurance-1.webp)">
+       
+
+    <h1> Medical Insurance Charges Prediction </h1>
+    <form method="POST" action="/predict_charges">
+
+        <label>Age:</label>
+        <input type = "text" name = "age">
+        </select>
+
+        <br>
+        <br>
+
+        <label>Sex:</label>
+        <select name = "sex">
+            <option value = "male">Male</option>
+            <option value = "female">Female</option>
+        </select>
+
+        <br>
+        <br>
+
+        <label>BMI:</label>
+        <input type = "text" name = "bmi">
+        </select>
+
+        <br>
+        <br>
+
+        <label>Children:</label>
+        <input type = "text" name = "children">
+        </select>
+
+        <br>
+        <br>
+
+        <label>Smoker:</label>
+        <label>Yes:</label> <input type = "radio" name= "smoker" value = "yes">
+        <label>No:</label> <input type = "radio" name= "smoker" value = "no">
+
+        <br>
+        <br>
+
+        <label>Region:</label>
+        <select name = "region">
+            <option value = "northeast">Northeast</option>
+            <option value = "southeast">Southeast</option>
+            <option value = "northwest">Northwest</option>
+            <option value = "southwest">Southwest</option>
+        </select>
+
+        <br>
+        <br>
+
+        <input type = "submit" value="SUBMIT">
+
+        <br>
+
+        <p>Your insurance premium charges will be <b> {{ prediction }} /- Rs.</b> Only </p>
+
+
+    </form>
+
+
+</body>
+</html>
