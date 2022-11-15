@@ -4,26 +4,26 @@ Predict Your Medical Insurance Premium By using Linear Regressor
 
 ![image](https://user-images.githubusercontent.com/116812639/201905846-52ca2d76-3adc-425b-b35b-25338298e74c.png)
 
-## Motivation
+## :innocent:Motivation
 
 To select the best Health plan, and to predict premium have been never that much simple.I used to wonder how Insurance amount is charged normally. So, I have decided to and came across this dataset and start working on it. By using this I know that how users provided information determine our insurance premium.
 
-## Aim 
+## :dart:Aim 
 
 Design the Model, which predict the medical insurance premium.
 
-## Analysis Screenshots
+## :chart_with_upwards_trend:Analysis Screenshots
                             Heatmap of Medical charges
 ![Heatmap of Medical charges](https://user-images.githubusercontent.com/116812639/201911803-07870a88-d1d1-4fb0-94ae-9e2ccafda21c.png)
 
                             Pairplot of Medical charges
 ![Pairplot of Medical charges](https://user-images.githubusercontent.com/116812639/201911936-89f1d5b6-0276-4b10-b4df-0e4e1c4065e8.jpeg)
 
-## Wed Page Screenshot
+## :earth_africa:Wed Page Screenshot
 
 ![image](https://user-images.githubusercontent.com/116812639/201915215-92e7d988-e856-4f99-b65e-d9255eb09a67.png)
 
-## Features
+## :scroll:Features
 
 1.	Problem Statement Converting Categorical values to Numerical
 2.	Data Gathering
@@ -39,19 +39,19 @@ Design the Model, which predict the medical insurance premium.
 12.	Preparing model for deployment
 13.	Deployed model using Flask
 
-## Result
+## :dart:Result
 
 Model gave 76% accuracy for Medical Insurance Amount Prediction using Linear Regressor
 
-## Dataset
+## :file_folder:Dataset
 
 This dataset is downloaded from kaggle - [Click to download](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 
-## Owner
+## :sunglasses:Owner
 
 Made with by [Ashutosh Susare](https://github.com/ashutohsusare20)
 
-## License 
+## :closed_lock_with_key:License 
 
 MIT - [Ashutosh Susare](https://github.com/ashutohsusare20)
 
