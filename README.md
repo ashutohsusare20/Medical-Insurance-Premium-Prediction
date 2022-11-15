@@ -1,4 +1,4 @@
-# MedicalI nsurance Premium Prediction
+# Medical Insurance Premium Prediction
 Predict Your Medical Insurance Premium By using Linear Regressor
 
 
