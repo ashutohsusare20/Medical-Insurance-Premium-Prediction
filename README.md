@@ -14,6 +14,9 @@ Design the Model, which predict the medical insurance premium.
 
 ## Analysis Screenshots
 
+![Heatmap of Medical charges](https://user-images.githubusercontent.com/116812639/201911803-07870a88-d1d1-4fb0-94ae-9e2ccafda21c.png)
+
 ## Wed page screenshot
 
+![Pairplot of Medical charges](https://user-images.githubusercontent.com/116812639/201911936-89f1d5b6-0276-4b10-b4df-0e4e1c4065e8.jpeg)
 
